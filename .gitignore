@@ -1,0 +1,6 @@
+node_modules
+mysql/*
+
+!mysql/00-placeholder.sql
+
+package-lock.json

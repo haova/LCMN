@@ -27,6 +27,8 @@ docker compose down -v
 
 ## Environment Variables
 
+Copy `.sample.env` to `.env`.
+
 | ENV                 | Desc |
 | ------------------- | ---- |
 | MYSQL_ROOT_PASSWORD |      |
